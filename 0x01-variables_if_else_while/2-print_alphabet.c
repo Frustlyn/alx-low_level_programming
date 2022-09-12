@@ -10,5 +10,6 @@ int main(void)
 
 	for (num = 'a'; num <= 'z'; num++)
 		putchar(num);
+	putchar("\n");
 	return (0);
 }
